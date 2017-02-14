@@ -9,8 +9,6 @@ export scmbDir="$(dirname ${BASH_SOURCE:-$0})"
 
 # Shared functions
 source "$scmbDir/lib/scm_breeze.sh"
-# Design assets management
-source "$scmbDir/lib/design.sh"
 
 # Git
 # ------------------------------------------------------------
