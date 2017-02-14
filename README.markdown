@@ -10,8 +10,7 @@
 
 **SCM Breeze** is a set of shell scripts (for `bash` and `zsh`) that enhance
 your interaction with git. It integrates with your shell to give you numbered
-file shortcuts, a repository index with tab completion, and many other useful
-features.
+file shortcuts and many other useful features.
 
 ![SCM Breeze Example Gif](http://i.imgur.com/3fD8cpo.gif)
 
@@ -20,7 +19,6 @@ features.
 - [Usage](#usage)
   - [File Shortcuts](#file-shortcuts)
   - [Keyboard bindings](#keyboard-bindings)
-  - [Repository Index](#repository-index)
 - [Configuration](#configuration)
 - [Updating](#updating)
 - [Uninstalling](#uninstalling)
